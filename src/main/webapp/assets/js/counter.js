@@ -103,4 +103,8 @@
       $this.countTo(options);
     }
   });
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> c32a1232a5dad635fba3c7a1821b7cb0dd78aa10
